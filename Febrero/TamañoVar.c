@@ -13,6 +13,4 @@ int main(){
     n = sizeof(double);
     printf("El numero de bytes que ocupa el tipo duble es %d \n",n);
     return 0;
-
-    
 }
