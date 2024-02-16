@@ -12,4 +12,5 @@ int main(){
     d = (int)(f * i);
     printf("Resultado %f \n",d);
     return 0;
+    
 }
