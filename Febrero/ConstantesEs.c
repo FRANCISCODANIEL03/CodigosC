@@ -12,6 +12,4 @@ int main(){
     printf("Valores utilizados para calcular el perimetro:\n");
     printf("Constante PI=%.4f, valor de dos = %d, radio = %.3f",PI,dos,radio);
     return 0;
-
-    
 }
