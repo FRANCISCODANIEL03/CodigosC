@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define PI 3.1416
+/*Codigo que calcula el perimetro de una circunferencia pidiendo el radio*/
 
 int main(){
     float perim,radio;
