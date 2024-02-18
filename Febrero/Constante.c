@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define EURO 166.386
-
+/*Codigo que pide la cantidad de pesetas y las convierte a euros*/
 int main(){
     int pesetas;
     float euros;
