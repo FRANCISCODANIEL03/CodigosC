@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//cuenta los caracteres de la entrada; 1a version
+/*cuenta los caracteres de la entrada; 1a version*/
 int main(){
     long nc;
 
