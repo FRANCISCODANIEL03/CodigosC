@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que pide un numero e identifica si es par a no*/
 int main(){
     int numero ;
     scanf("%d", &numero);
