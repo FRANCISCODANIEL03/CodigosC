@@ -1,5 +1,5 @@
 # include <stdio.h>
-
+/*Codigo que divide dos numeros con decimales*/
 double main(){
     double V1,V2;
     V1 = 5.25;
