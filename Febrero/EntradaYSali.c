@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que imprime y toma datos del teclado*/
 int main(){
     int r,x;
     float precio;
