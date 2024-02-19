@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que pide una calificacion y evalua si es aprobatoria o no*/
 int main(){
     int num;
     puts("Escribe tu calificacion");
