@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /*imprime la tabla Fahrenheit-Celsius
 para fahr = 0,20,...,300;version de punto flotante*/
 int main(){
