@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que explica como funciona el incremento*/
 int main(){
     int var = 1;
     int con = 1;
