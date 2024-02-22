@@ -4,8 +4,12 @@
 #include <stdio.h>
 
 int main(){
-    float a;
-    a = 1.0/3.0 + 3.0/5.0 + 1.0/30.0 /23.0/30.0;
-    printf("= %f",a);
+    float a,b,c,d,e;
+    a = 1.0/3.0;
+    b = 3.0/5.0;
+    c = 1.0/30.0;
+    d = 23.0/30.0;
+    e = a + b + c / d;
+    printf("= %f",e);
     return 0;
 }
