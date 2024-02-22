@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Primer codigo que suma dos numeros*/
 int main (){
     //Quiero imprimir el numero 3
     printf("%d \n",3);
