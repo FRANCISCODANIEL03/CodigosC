@@ -6,7 +6,7 @@ int main(){
     una_variable = una_variable + 5;
     una_variable ++;
 
-    printf("%d", una_variable);
+    printf("La suma de %d + %d es = %d",3,5, una_variable);
 
     printf("\n");
     return 0;
