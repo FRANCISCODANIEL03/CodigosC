@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*Codigo que esxplica de forma practica como funciona el incremento y decremento*/
 int main(){
     int c = 5;
     printf("c : %d \n",c);
