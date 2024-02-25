@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Segundo codigo que explica en inc/dec*/
 int main(){
     int var = 1;
     int con = 1;
