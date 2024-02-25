@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que explica como funciona la jerarquia de operadores*/
 int main(){
     int p = 5;
     int q = 1;
