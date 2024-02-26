@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Convertir pesetas a euros sin constantes*/
 int main(){
     int pesetas;
 
