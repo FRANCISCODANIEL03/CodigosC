@@ -1,6 +1,5 @@
-/*realizar programa que los calculos y muestre los resultados
-
-(((1/3)+(3/5)+(1/30)))*/
+/*realizar programa que los calculos y muestre los resultado
+COdigo que realiza una division de varias fracciones */
 #include <stdio.h>
 
 int main(){
