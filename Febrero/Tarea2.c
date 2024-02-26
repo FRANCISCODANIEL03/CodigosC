@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que hace una dividion de varias fracciones, 2da version*/
 int main(){
     float a,b,c,d,e;
     a = 5;
