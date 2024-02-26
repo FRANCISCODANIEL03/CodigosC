@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que calcula el numero de bytes de cada variable*/
 int main(){
     char c;
     int n,d;
