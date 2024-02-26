@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que calcula cuantos segundos haz vivido*/
 int main(){
     int seg,min,hora,dia,año;
    /* printf("Ingresa los minutos que has vivido");
