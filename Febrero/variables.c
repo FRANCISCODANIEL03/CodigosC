@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que suma un numero, incrementando el mismo numero */
 int main(){
     int una_variable;
     una_variable = 3;
