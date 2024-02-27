@@ -2,13 +2,12 @@
 
 /*Se realizan conversion de datos con decimales a int*/
 int main(){
-    double d,e,f = 2.33;
-    int i = 6;
-    e = f * i;
-    printf("Resultado = %f \n",e);
-    d = (int)(f * i);
-    printf("Resultado %f \n",d);
-    d = (int)(f * i);
-    printf("Resultado %f \n",d);
+    float d,e;
+    puts("Ingresa el numero con decimales");
+    scanf("%f", &d);
+    printf("Numero inicial= %f \n",d);
+    e = (int)(d);
+    printf("Resultado en decimal:  %f \n",d);
+    printf("Resultado entero es: %.0f \n",e);
     return 0;
 }
