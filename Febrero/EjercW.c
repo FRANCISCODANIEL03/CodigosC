@@ -7,5 +7,6 @@ int main(){
         cubo = cuad * num;
         printf("%d, %d, %d\n",num,cuad,cubo);
         num++;
+        
     }
 }
