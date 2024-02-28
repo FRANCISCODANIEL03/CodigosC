@@ -9,6 +9,6 @@ int main(){
     printf("Ingresa el tercer numero\n");
     scanf("%d", &V3);
 
-    printf("La multiplocacion de  %d x %d x %d es = %d",V1,V2,V3,V1*V2*V3);
+    printf("La multiplicacion de  %d x %d x %d es = %d",V1,V2,V3,V1*V2*V3);
     return 0;   
 }    
