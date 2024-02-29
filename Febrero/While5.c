@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int num = 1,num2;
-    while(num < 100){
-        num2 =num %7;
-        if(num2 != 0){
+    int num = 1,num2,num3;
+    puts("Ingresa el limite del rango: 0 a : ");
+    scanf("%d", &num2);
+    puts("Ingresa el numero del que no van a aparecer sus multiplos");
+    scanf("%d", &num3);
+    while(num < num2){
+        if(num %num3 != 0){
             printf("%d, ",num);
         }
         num++;
