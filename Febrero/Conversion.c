@@ -10,4 +10,5 @@ int main(){
     printf("Resultado en decimal:  %f \n",d);
     printf("Resultado entero es: %.0f \n",e);
     return 0;
+    
 }
