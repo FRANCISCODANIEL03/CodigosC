@@ -5,6 +5,6 @@ int main(){
     puts("Ingresa los años que tienes");
     scanf("%d",&año);
     seg =año*365*24*60*60;
-    printf("Los segundos que has vivido son: %d",seg);
+    printf("Los segundos que has vivido son: %d\n",seg);
     return 0;
 }
