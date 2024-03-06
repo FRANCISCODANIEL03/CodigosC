@@ -7,9 +7,7 @@ int main(){
 
     printf("\n Introduzca la cantidad en pesetas:");
     scanf("%d",&pesetas);
-
     euros = pesetas / EURO;
-
     printf("\n Equivalen a: %.2f euros", euros);
 
     return 0;
