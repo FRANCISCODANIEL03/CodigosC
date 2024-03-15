@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que imprime la tabl del 2*/
 int main(){
     int arreg[100];
     int i = 0;
