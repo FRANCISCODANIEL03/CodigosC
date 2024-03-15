@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*Codigo que crea un arreglo y guarda un valor en cada una de sus posiciones*/
+/*Codigo que crea un arreglo y guarda el valor de 10  en cada una de sus posiciones */
 int main(){
     int vector[10];
     int i = 0;
