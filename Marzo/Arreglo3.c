@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Codigo que imprime numeros del 99 hasta el 0*/
 int main(){
     int arreg[100];
     int i = 99;
