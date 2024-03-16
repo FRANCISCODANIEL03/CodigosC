@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+/*Codigo que pide el tamaño del vector lo llena y mustra la multiplicacion
+de todos los numeros asi como el promedio*/
 int main(){
     int a;
     puts("Ingresa el tamaño del vector");
