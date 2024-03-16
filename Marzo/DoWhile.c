@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*Codigo que incrememnta un numero y lo imprime tres veces*/
+/*Codigo que incremeta un numero y lo imprime tres veces*/
 int main(){
     int i = 0;
     do{
